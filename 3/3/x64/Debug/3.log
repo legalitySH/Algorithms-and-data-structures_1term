@@ -1,0 +1,8 @@
+﻿  sort.cpp
+D:\1 КУРС\2sem\СД\3\3\sort.cpp(183,11): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+D:\1 КУРС\2sem\СД\3\3\sort.cpp(203,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\1 КУРС\2sem\СД\3\3\sort.cpp(206,9): warning C4101: bubble_time: неиспользованная локальная переменная
+D:\1 КУРС\2sem\СД\3\3\sort.cpp(206,64): warning C4101: selection_time: неиспользованная локальная переменная
+D:\1 КУРС\2sem\СД\3\3\sort.cpp(206,53): warning C4101: comb_time: неиспользованная локальная переменная
+D:\1 КУРС\2sem\СД\3\3\sort.cpp(206,38): warning C4101: cocktail_time: неиспользованная локальная переменная
+  3.vcxproj -> D:\1 КУРС\2sem\СД\3\x64\Debug\3.exe
